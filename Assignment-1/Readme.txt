@@ -1,6 +1,5 @@
 Assignment-1 (Course EEL5934)
 Rishabh Jain
-UFID: 16119481
 
 Language used: C
 OS used: Ubuntu (linux)
